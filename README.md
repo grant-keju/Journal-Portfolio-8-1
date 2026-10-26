@@ -1,2 +1,8 @@
 # Journal-Portfolio-8-1
-Journal portfolio Corner Grocer
+
+Project Summary
+
+For this project i have chosen to reflect on the week 7 project assigment called Corner Grocer the summary of this project i was the programmer creating a data that read from the data text file, and to count how many times the shop sold it product online or in store. It was a user friendly program that provide the item frequencies or the histogram of the data. 
+
+Refection on my work on this project
+As i continued writing the program for this project i have come across the challenges and how i overcame these challenges. The most difficult for me was that i was still learning how to have the program that i created to look for the input file and how the mapping/location system work on this program. As any programmer or as a student learning C++ i just create a code and run the debugging feature on the visual studio by doing this i have learned how to read the error and what it was needing. I especially notice even thought the error was reading that i am missing an element or character on the specific line. It is always never the solution i had to learn to read the line before and work my way up to see what i am looking for. As i continue to work on improving the program i have learned that it was an opportunity to look for improvement whether it could be adding as simple character or understanding the mapping system every debug i did was one step closer to my goal it was a relief every time i watch the error number going from 30-40 error and gradually getting lower. It was rewarding to watch the program running smoothly and inputting to get the result i needed.  
